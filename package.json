@@ -1,0 +1,19 @@
+{
+  "name": "rfs-rpc",
+  "version": "1.0.0",
+  "description": "A discord rich presense with timestamp,picture etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "RPC"
+  ],
+  "author": "RFS",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.2.0",
+    "discord.js": "^12.5.3"
+  }
+}
